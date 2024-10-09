@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 👀 I’m interested in building  Fullstack Web Applications using MEAN or MERN. Also love to work on data science and computer vision.
 I am a passionate software developer with skills in various programming languages, including Python, Java, Angular, React, and PHP. I enjoy tackling diverse software challenges and am committed to delivering innovative solutions that enhance functionality and user experience.
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Haque-Misbahul&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
 
-## 🌐 Socials:
+## 📈 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark)](https://git.io/streak-stats)
+
+## 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhaque-tuc/) 
 [![](https://visitcount.itsvg.in/api?id=Haque-Misbahul&icon=0&color=0)](https://visitcount.itsvg.in)
 
