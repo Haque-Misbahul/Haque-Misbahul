@@ -32,7 +32,7 @@ I am a passionate software developer with skills in various programming language
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://m.facebook.com/misbahulhaque.sayem.1/?locale=ms_MY) 
 [![](https://visitcount.itsvg.in/api?id=Haque-Misbahul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💻 My Tech Stack:
+# 🛠️ Tools & Technologies:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,22 +61,8 @@ I am a passionate software developer with skills in various programming language
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![CCNA](https://img.shields.io/badge/CCNA-006EB8.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=haque-misbahul&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 
 
-
-<!---
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imamulahsan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-////////////////////////////////////
-
-
-
-imamulahsan/imamulahsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
