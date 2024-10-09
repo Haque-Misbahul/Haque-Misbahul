@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Haque-Misbahul/Haque-Misbahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +24,9 @@ I am a passionate software developer with skills in various programming language
 
 
 ## 🚀 Developer Insights:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark)](https://git.io/streak-stats)
+<div align= "center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark)](https://git.io/streak-stats)
+</div>
 
 ## 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhaque-tuc/) 
