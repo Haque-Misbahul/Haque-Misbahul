@@ -65,11 +65,12 @@ I am a passionate software developer with skills in various programming language
 ![CCNA](https://img.shields.io/badge/CCNA-006EB8.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## 🏆 Achievements:
-- **Best Future Award** from [Sustainability 4D](https://sustainability4d.daffodilvarsity.edu.bd/diu-solar).
-- **Completed Japanese N3**: [Certificate](https://www.dropbox.com/scl/fi/i1ccyhm61bv28oqgjjhmf/N3_JLPT_certificate.pdf?rlkey=aj61ti0ast6oauhto26oo53ks&e=1&dl=0).
-- **CCNA Certification**: [Verify Credential](https://cp.certmetrics.com/cisco/en/public/verify/credential/430832028463ASXH).
+[![Best Future Award](https://img.shields.io/badge/Best%20Future%20Award-brightgreen)](https://sustainability4d.daffodilvarsity.edu.bd/diu-solar)
+[![Japanese N3](https://img.shields.io/badge/Completed%20Japanese%20N3-blue)](https://www.dropbox.com/scl/fi/i1ccyhm61bv28oqgjjhmf/N3_JLPT_certificate.pdf?rlkey=aj61ti0ast6oauhto26oo53ks&e=1&dl=0)
+[![CCNA Certification](https://img.shields.io/badge/CCNA%20Certification-orange)](https://cp.certmetrics.com/cisco/en/public/verify/credential/430832028463ASXH)
 
-## 🏆GitHub Trophies
+
+## 🏆 GitHub Trophies
 <!-- 
 ![](https://github-trophies.vercel.app/?username=haque-misbahul&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 -->
