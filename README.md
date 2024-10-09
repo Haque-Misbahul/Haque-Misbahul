@@ -65,7 +65,9 @@ I am a passionate software developer with skills in various programming language
 ![CCNA](https://img.shields.io/badge/CCNA-006EB8.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## 🏆GitHub Trophies
+<!-- 
 ![](https://github-trophies.vercel.app/?username=haque-misbahul&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
+-->
+![](https://github-trophies.vercel.app/?username=haque-misbahul&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
 
 
