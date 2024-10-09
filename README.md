@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 
-👀 I’m interested in building  Fullstack Web Applications using MEAN or MERN. Also love to work on data science and computer vision.
 I am a passionate software developer with skills in various programming languages, including Python, Java, Angular, React, and PHP. I enjoy tackling diverse software challenges and am committed to delivering innovative solutions that enhance functionality and user experience.
 
 
