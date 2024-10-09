@@ -24,9 +24,12 @@ I am a passionate software developer with skills in various programming language
 
 
 ## 🚀 Developer Insights:
-<div align= "center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark" alt="GitHub Streak">
+  </a>
 </div>
+
 
 ## 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhaque-tuc/) 
