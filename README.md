@@ -24,16 +24,13 @@ Here are some ideas to get you started:
 I am a passionate software developer with skills in various programming languages, including Python, Java, Angular, React, and PHP. I enjoy tackling diverse software challenges and am committed to delivering innovative solutions that enhance functionality and user experience.
 
 
-## 📈 GitHub Stats:
+## 🚀 Developer Insights:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark)](https://git.io/streak-stats)
 
 ## 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhaque-tuc/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://m.facebook.com/misbahulhaque.sayem.1/?locale=ms_MY) 
 [![](https://visitcount.itsvg.in/api?id=Haque-Misbahul&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<!---
 
 # 💻 Tech Stack:
 
@@ -50,15 +47,14 @@ I am a passionate software developer with skills in various programming language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Flask](	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<!---
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imamulahsan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
