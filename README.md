@@ -25,7 +25,7 @@ I am a passionate software developer with skills in various programming language
 ## 🚀 Developer Insights:
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark&card_width=600" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark&border_radius=15&card_width=1000" alt="GitHub Streak">
   </a>
 </div>
 
@@ -64,14 +64,6 @@ I am a passionate software developer with skills in various programming language
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![CCNA](https://img.shields.io/badge/CCNA-006EB8.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-# Achievement
-[![GitHub Streak](https://streak-stats.demolab.com?user=Haque-Misbahul&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
-
-## 🏆 Achievements:
-[![Achievement Badge](https://img.shields.io/badge/Completed%20100%2B%20Projects-brightgreen)](link-to-more-info)
-[![Achievement Badge](https://img.shields.io/badge/Contributor%20to%20Open%20Source-blue)](link-to-project)
-[![Achievement Badge](https://img.shields.io/badge/200%20Days%20Streak-yellow)](link-to-more-info)
-[![Achievement Badge](https://img.shields.io/badge/Certified%20in%20Skill-orange)](link-to-more-info)
 
 
 ## 🏆GitHub Trophies
