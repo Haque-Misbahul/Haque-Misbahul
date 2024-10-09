@@ -26,7 +26,7 @@ I am a passionate software developer with skills in various programming language
 ## 🚀 Developer Insights:
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark&card_width=520" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=Haque-Misbahul&theme=android-dark&card_width=600" alt="GitHub Streak">
   </a>
 </div>
 
